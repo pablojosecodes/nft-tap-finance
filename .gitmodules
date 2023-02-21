@@ -1,0 +1,3 @@
+[submodule "flask-backend"]
+	path = flask-backend
+	url = git@github.com:tap-finance/flask-backend.git
