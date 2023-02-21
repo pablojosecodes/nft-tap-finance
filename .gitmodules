@@ -1,3 +1,21 @@
 [submodule "flask-backend"]
 	path = flask-backend
 	url = git@github.com:tap-finance/flask-backend.git
+[submodule "tellor"]
+	path = tellor
+	url = git@github.com:tap-finance/tellor.git
+[submodule "cartesi-contract-maker"]
+	path = cartesi-contract-maker
+	url = git@github.com:tap-finance/cartesi-contract-maker.git
+[submodule "tapp-solidity-contracts"]
+	path = tapp-solidity-contracts
+	url = git@github.com:tap-finance/tapp-solidity-contracts.git
+[submodule "tap-finance_frontend"]
+	path = tap-finance_frontend
+	url = git@github.com:tap-finance/tap-finance_frontend.git
+[submodule "tap-nft"]
+	path = tap-nft
+	url = git@github.com:tap-finance/tap-nft.git
+[submodule "sol-contracts"]
+	path = sol-contracts
+	url = git@github.com:tap-finance/sol-contracts.git
